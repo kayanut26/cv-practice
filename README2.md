@@ -1,0 +1,1 @@
+python3 main.py -o miuxduouu_.jpg -r image_results/1.png -f resize
